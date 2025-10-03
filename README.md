@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install / Configure MySQL
 - Install osTicket
 - Create osTicket Database
+- Set Permissions
   
 
 <h2>Installation Steps</h2>
