@@ -47,7 +47,7 @@ On Azure Search for "Virtual Machine" and Create a new one.
 We will need connect to our Virtual Machine with Remote Desktop using the VM's `public IP address`. 
 
 <p align="center">
-<img src=![Image](https://github.com/user-attachments/assets/13d0a313-c008-4cc0-8320-f18535145dec) alt="image of public IP address"/>
+![Image](https://github.com/user-attachments/assets/13d0a313-c008-4cc0-8320-f18535145dec) 
 </p>
 
 <br />
