@@ -103,19 +103,24 @@ Fix any failures in the installation by going to Google Drive to <a href="https:
 
     <img src="https://i.imgur.com/A8LBhGS.png" height="65%" width="65%" alt="IIS restart"/>
 
-    <p align="center"> 
+
 <img src="https://i.imgur.com/bbcdcJo.png" height=45% width="45%" alt="browse: 80"/>
-    </p> 
+     
     </br>
     
-Once `browse: 80` is selected a browser window will open presenting osTicket installer page along with the recommendation/prerequisites of use.
+Once "browse 80" is selected a browser window will open presenting osTicket installer page along with the recommendation/prerequisites of use.
     
 
     <img src="https://i.imgur.com/wcCxx5C.png" height="45%" width="45%" alt="os ticket installer"/>
   
     </br>
     
-Next we'll go back to IIS, sites -> Default -> 1. `osTicket` 2. Double-click `PHP Manager` 3. Click `Enable or disable an extension` 1. Enable: `php_imap.dll` 2. Enable: `php_intl.dll` 3. Enable: `php_opcache.dll` -
+Next we'll go back to IIS, sites -> Default -> 1. "osTicket" 
+2. Double-click "PHPManager"
+3. Click "Enable or Disable Extension" 
+1. Enable: "php_imap.dll"
+ 2. Enable: "php_intl.dll"
+    3. Enable: "php_opcache.dll" -
 
  <p align="center"<img src="https://i.imgur.com/YVjKOMp.png" height="50%" width="50%" alt="php manager"/>
  </p>
