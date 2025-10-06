@@ -49,6 +49,7 @@ We will need connect to our Virtual Machine with Remote Desktop using the VM's `
 <p align="center">
   
 ![Image](https://github.com/user-attachments/assets/13d0a313-c008-4cc0-8320-f18535145dec) 
+
 </p>
 
 <br />
