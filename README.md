@@ -37,7 +37,7 @@ This tutorial shows the prerequisites and installation of the open-source help d
 
 On Azure Search for "Virtual Machine" and Create a new one. 
 
-<p align="center"><img src="https://i.imgur.com/jz0e59n.png" height="70%" width="70%" alt="image of vm settings"/> </p>
+<img src="https://i.imgur.com/jz0e59n.png" height="70%" width="70%" alt="image of vm settings"/> 
 
    >**Note**: Don't forget to check the box "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights." or else you will receive a validation error message when you choose to 'Review + Create'.
     
