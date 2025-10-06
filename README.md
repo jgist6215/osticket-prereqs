@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial shows the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -12,9 +12,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- Internet Information Services (IIS)
+- IIS (Internet Information Services)
 
 <h2>Operating Systems Used </h2>
 
@@ -33,14 +33,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-   >**Note**: Create a Windows 10 Virtual Machine with 2 or 4 virtual CPUS to ensure that you are not troubled with hiccups  and slow movement throughout the lab.
-Allow the VM to create a new Vnet which should be done by default.
+   >**Note**: Create a Windows 10 Virtual Machine with 2 or 4 virtual CPUS to make sure everything runs smoothly.
 
-We can do a quick search for `Virtual Machine` and as we create the virtual machine, we will have the option to create the Resource Group. Here we select `Create New` to name the name the Resource Group 'RG-osTicket' and build out the Virtual Machine (VM) with the provided settings pictured (below). 
+On Azure Search for "Virtual Machine" and Create a new one. 
 
 <p align="center"><img src="https://i.imgur.com/jz0e59n.png" height="70%" width="70%" alt="image of vm settings"/> </p>
 
-   >**Note**: Be sure to check the box recognizing 'I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.' or else you will receive a validation error message when you choose to 'Review + Create'.
+   >**Note**: Don't forget to check the box "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights." or else you will receive a validation error message when you choose to 'Review + Create'.
     
 <p align="center">
 <img src="https://i.imgur.com/yFq2KcG.png" height="70%" width="70%" alt="image of vm username password"/> </p>
@@ -48,7 +47,7 @@ We can do a quick search for `Virtual Machine` and as we create the virtual mach
 We will need connect to our Virtual Machine with Remote Desktop using the VM's `public IP address`. 
 
 <p align="center">
-<img src="https://i.imgur.com/DGOWrS5.png" height="80%" width="80%" alt="image of public IP address"/>
+<img src="![Image](https://github.com/user-attachments/assets/13d0a313-c008-4cc0-8320-f18535145dec)" alt="image of public IP address"/>
 </p>
 
 <br />
